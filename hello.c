@@ -110,7 +110,7 @@ int main(int argc, char **argv)
     printf("CIRCLEQ_REMOVE ALL:");
     for (np = head.cqh_first; np != (struct entry *) &head; np = np->entries.cqe_next)
     {
-        printf("%d ", np->oper);
+        printf("%d   ", np->oper);
     }
     printf("\n");
 
