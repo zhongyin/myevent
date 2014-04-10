@@ -2,7 +2,7 @@
  * hello.c
  *
  *  Created on: 2013-1-5
- *      Author: zhongyin
+ *      Author: 
  */
 
 #include "hello.h"
